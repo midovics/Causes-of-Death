@@ -17,4 +17,5 @@ Programming language: Python
 Python libraries: Pandas, seaborn, NumPy, os, matplotlib, seaborn, statsmodels, warnings,sklearn, Kmeans, pylab, StandardScaller, PCA, plotly.express, train_test_split, LinearRegression, mean_squared_error, r2_score, folium, json
 
 Software distribution: Anaconda
+
 Environment: Jupyter Notebook
