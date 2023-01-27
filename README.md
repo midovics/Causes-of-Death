@@ -1,3 +1,6 @@
+Causes of Death Analysis
+Analysis of the  Database using as part of CareerFoundry Data Analysis course
+
 Assessing mortality and morbidity (the prevalent diseases) 
 provides an encompassing view of the health of populations and 
 gives the stakeholders the opportunity to prepare for the upcoming trends in health. 
