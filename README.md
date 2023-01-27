@@ -6,9 +6,10 @@ The goal of the project is to help pharmaceutical manufacturers to monitor the m
 
 ## Data
 The original data sets are the following:
-[Kaggle Data](https://www.kaggle.com/code/saisandeepjallepalli/cause-of-deaths-complete-data-analysis/data)
 
-[Our World In Data](https://ourworldindata.org/)
+- [Kaggle Data](https://www.kaggle.com/code/saisandeepjallepalli/cause-of-deaths-complete-data-analysis/data)
+
+- [Our World In Data](https://ourworldindata.org/)
 
 ## Tools
 Programming language: Python
